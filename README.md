@@ -15,6 +15,7 @@ windows电脑
 apk下载地址：https://dl.clash-verge.dev/?r=/download&path=L0xhblBhbmdZdW4tMS4zLjAtYW5kcm9pZC1hcm02NC12OGEuYXBr
 
 apk下载地址2：https://ff.d15boy.com/LanPangYun-1.3.0-android-arm64-v8a.apk
+[![和蓝胖云一样具有性价比的机场推荐](https://raw.githubusercontent.com/lanpangyun/kehuduan/refs/heads/main/lpy2026.jpg)](https://github.com/lanpangyun/xingjiabijichang)
 
 mac电脑M系列芯片（Arm芯片）
 dmg下载地址：https://dl.clash-verge.dev/?r=/download&path=L0xhblBhbmdZdW4tMS4zLjAtbWFjb3MtYW1kNjQuZG1n
